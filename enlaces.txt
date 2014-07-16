@@ -1,0 +1,3 @@
+----Conceptos sobre apis rest------
+http://asiermarques.com/2013/conceptos-sobre-apis-rest/
+http://www.slideshare.net/apuig75/desarrollando-un-api-con-rest
