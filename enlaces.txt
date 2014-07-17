@@ -1,6 +1,7 @@
 ----Conceptos sobre apis rest------
 http://asiermarques.com/2013/conceptos-sobre-apis-rest/
 http://www.slideshare.net/apuig75/desarrollando-un-api-con-rest
+
 http://www.adictosaltrabajo.com/tutoriales/tutoriales.php?pagina=spring-mvc-api-rest-oauth2
 http://byteflair.com/2014/02/de-soa-a-los-apis-web-a-k-a-restful-web-services/
 http://carlosazaustre.es/blog/como-crear-una-api-rest-usando-node-js/
@@ -8,3 +9,6 @@ http://carlosazaustre.es/blog/como-crear-una-api-rest-usando-node-js/
 
 -----ejemplo----
 http://scotch.io/tutorials/javascript/build-a-restful-api-using-node-and-express-4
+
+---pagina oficial del plugin---
+http://ohmyz.sh/
